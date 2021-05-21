@@ -1,1 +1,8 @@
 com/rate/rateserv/RateservApplication.class
+com/rate/rateserv/component/DataSet$DataSetType.class
+com/rate/rateserv/controller/RateController.class
+com/rate/rateserv/util/Constants.class
+com/rate/rateserv/controller/api/Rate.class
+com/rate/rateserv/dto/enums/Categories.class
+com/rate/rateserv/component/DataSet.class
+com/rate/rateserv/dto/RateDto.class
